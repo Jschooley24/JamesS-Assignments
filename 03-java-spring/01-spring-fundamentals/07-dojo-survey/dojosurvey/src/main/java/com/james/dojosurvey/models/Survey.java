@@ -6,7 +6,7 @@ public class Survey {
 	private String language;
 	private String comment;
 	public Survey(String name, String location, String language, String comment) {
-		super();
+		
 		this.name = name;
 		this.location = location;
 		this.language = language;
